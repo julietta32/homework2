@@ -1,0 +1,39 @@
+.header{
+    font-size: 24px;
+    margin-top: 10px;
+    margin-left: 60px;
+    display: inline-block;
+
+}
+.menu,.bottom{
+    font-size: 25px;
+    font-family: sans-serif;
+    color: aliceblue;
+    background-color: dimgrey;
+    height: 40px;
+    text-align:center;
+    margin-top: 20px;
+    padding: 15px ;
+}
+ul{
+    list-style-type: none;
+    padding: 50px;
+}
+li{
+    padding: 10px;
+}
+.spisok{
+    float: left;
+}
+.photo{
+    height: 280px;
+    width: 450px;
+    background-image: url(https://mountainpeaks.ru/images/%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D1%8B%20GIANT/2014/Giant%20XTC%20Composite%2029-er%202.jpg);
+    background-size: cover;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.text{
+    margin-left: 300px;
+    margin-top: 50px;
+}
